@@ -6,6 +6,8 @@ const spumkid = {
   lastName: "Fernández",
   code: ["HTML", "CSS", "Javascript", "PHP", "MySQL", "Vue.js"],
   tools: ["Visual Studio Code", "Postman", "Git"],
+  environment: "linux",
+  shell: "bash",
   social: {
     github: "spumkid",
     linkedin: "spumkid",
