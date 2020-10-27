@@ -4,7 +4,7 @@
 const spumkid = {
   firstName: "Mauricio",
   lastName: "Fernández",
-  skills: ["HTML", "CSS", "Javascript", "PHP", "MySQL", "Vue.js", "Bootstrap", "Materialize"],
+  skills: ["HTML", "CSS", "Javascript", "PHP", "MySQL", "Vue.js", "Bootstrap", "Materialize", "Firebase", "Webpack"],
   tools: ["Visual Studio Code", "Postman", "Git"],
   environment: "linux",
   shell: "bash",
