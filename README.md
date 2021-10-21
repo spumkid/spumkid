@@ -1,19 +1,47 @@
 ![spumkid](https://spumkid.com.ar/static/images/logo.png)
 
-```javascript
-const spumkid = {
-  firstName: "Mauricio",
-  lastName: "Fernández",
-  skills: ["HTML", "CSS", "Javascript", "PHP", "MySQL", "Vue.js", "Bootstrap", "Materialize", "Less", "Firebase", "Webpack", "Composer", "npm", "API REST"],
-  tools: ["Visual Studio Code", "Postman", "Git"],
-  environment: "linux",
-  shell: "bash",
-  social: {
-    github: "spumkid",
-    linkedin: "spumkid",
-    instagram: "mauricio.spumkid",
-    codepen: "spumkid"
-  },
-  website: "https://spumkid.com.ar"
-}
-```
+# Hola! Soy Mauricio Fernández, Desarrollador web Full Stack
+
+Soy desarrollador web tanto Frontend y Backend. Comencé desde el año 2002 y fuí migrando de una tecnología a otra a través del tiempo. Cuando nació Flash trabajaba con ActionScript y hacia los servicios en PHP para consumirlos desde la aplicación. Luego tras su caída fuí migrando todo a HTML y Javascript del lado del Frontend. Trabajo en PHP (tanto sin frameworks como con Codeigniter), MySQL, HTML, CSS y JavaScript Vanilla, JQuery y Vue.js (Por el momento no manejo React ni Angular), API REST, Git, Less. Trabajo sobre entorno linux
+
+- FrontEnd:
+  - HTML
+  - CSS
+    - Bootstrap
+    - Materialize
+    - Less
+  - Javascript
+    - JQuery
+    - API REST
+    - ES6
+    - Vue
+    - Vuex
+    - Webpack
+  - Progressive Web App
+  - Mobile Applications
+- BackEnd:
+  - PHP
+    - Codeigniter
+    - Composer
+  - Database
+    - MySQL
+    - SQLite
+    - MongoDB
+  - Javascript
+    - Node
+- DevOps:
+  - Linux
+  - SSH
+  - Apache
+  - MySQL
+  - Docker
+- Herramientas:
+  - Git
+  - npm
+  - Prettier
+  - Postman
+  - bash
+
+## Mis redes:
+
+[Instagram](https://www.instagram.com/mauricio.spumkid) | [Twitter](https://twitter.com/spumkid)
