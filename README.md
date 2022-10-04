@@ -2,7 +2,7 @@
 
 # Hola! Soy Mauricio Fernández, Desarrollador web Full Stack
 
-Soy desarrollador web tanto Frontend y Backend. Comencé desde el año 2002 y fuí migrando de una tecnología a otra a través del tiempo. Cuando nació Flash trabajaba especialmente con ActionScript y hacia los servicios en PHP para consumirlos desde la aplicación. Luego tras su caída fuí migrando todo a HTML y Javascript del lado del Frontend. Trabajo en PHP (tanto sin frameworks como con Codeigniter, Laravel), MySQL, HTML, CSS, JavaScript, Vue.js, API REST, Git, Less. Trabajo sobre entorno linux
+Soy desarrollador web tanto Frontend y Backend. Comencé desde el año 2000 y fuí migrando de una tecnología a otra a través del tiempo. Cuando nació Flash trabajaba especialmente con ActionScript y hacia los servicios en PHP para consumirlos desde la aplicación. Luego tras su caída fuí migrando todo a HTML y Javascript del lado del Frontend. Trabajo en PHP (tanto sin frameworks como con Codeigniter, Laravel), MySQL, HTML, CSS, JavaScript, Vue.js, API REST, Git, Less. Trabajo sobre entorno linux
 
 - FrontEnd:
   - HTML
