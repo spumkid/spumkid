@@ -46,4 +46,4 @@ Soy desarrollador web tanto Frontend y Backend. Comencé desde el año 2000 y fu
 
 ## Mis redes:
 
-[Instagram](https://www.instagram.com/mauricio.spumkid)
+[Instagram](https://www.instagram.com/spumkid79)
